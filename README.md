@@ -31,6 +31,9 @@ I build **complete AI-powered products** — from the Next.js frontend to the La
 
 ## ⚡ Tech Stack
 
+💻 Tech Stack:
+C HTML5 JavaScript C++ Python TypeScript AWS Vercel Netlify Render .Net Angular.js FastAPI Express.js JWT NPM NestJS Next JS NodeJS React React Native React Query Socket.io Spring TailwindCSS Nginx MongoDB MySQL Neo4J Postgres Prisma Keras Matplotlib NumPy Pandas PyTorch scikit-learn TensorFlow Scipy GitHub Actions GitHub Git GitLab Kubernetes FastAPI
+
 ```python
 stack = {
     "GenAI / LLM":    ["LangChain", "LangGraph", "LangFuse", "RAG", "AI Agents",
