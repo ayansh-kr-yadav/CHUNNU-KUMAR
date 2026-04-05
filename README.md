@@ -6,7 +6,7 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chunnu_Kr_Yadav-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/chunnu-kr-yadav)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chunnu_Kr_Yadav-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/chunnu-kr-yadav/)
 [![Email](https://img.shields.io/badge/Email-chunnukumaryadav25@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:chunnukumaryadav25@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Kalyani,_West_Bengal-00c87a?style=flat-square)]()
 [![Open to Work](https://img.shields.io/badge/Status-Open_to_Opportunities-00c87a?style=flat-square)]()
