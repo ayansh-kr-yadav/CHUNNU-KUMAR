@@ -1,9 +1,9 @@
 <div align="center">
 
 ```
-         ╔══════════════════════════════════════════════════════════════╗
-         ║           CHUNNU KR YADAV  ·  Full Stack + AI Engineer       ║
-         ╚══════════════════════════════════════════════════════════════╝
+                           ╔══════════════════════════════════════════════════════════════╗
+                           ║           CHUNNU KR YADAV  ·  Full Stack + AI Engineer       ║
+                           ╚══════════════════════════════════════════════════════════════╝
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-chunnu--kr--yadav-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/chunnukryadav)
